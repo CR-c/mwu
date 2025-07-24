@@ -5,9 +5,9 @@ spring:
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
     type: com.zaxxer.hikari.HikariDataSource
-    url: jdbc:mysql://localhost:3306/mwu?useUnicode=true&characterEncoding=utf-8&useSSL=true
-    username: root
-    password: mysql123
+    url: jdbc:mysql://10.27.109.67:3306/mwu?useUnicode=true&characterEncoding=utf-8&useSSL=true
+    username: lenovo
+    password: Mysql123-
 
 wechat:
   appid: wx246d94f0a3ee6b4d
